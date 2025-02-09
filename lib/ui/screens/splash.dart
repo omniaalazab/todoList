@@ -23,7 +23,7 @@ class _SplashState extends State<Splash> {
         opacity = 1;
       });
     });
-    Future.delayed(const Duration(seconds: 10), () {
+    Future.delayed(const Duration(seconds: 6), () {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(
           builder: (_) => const Login(),
@@ -35,6 +35,7 @@ class _SplashState extends State<Splash> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.amber.shade50,
       body: SafeArea(
         child: Center(
           child: AnimatedOpacity(
