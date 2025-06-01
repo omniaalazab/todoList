@@ -38,5 +38,6 @@ A simple yet powerful task management mobile application built with Flutter. Thi
 ## 📸 Screenshots
 ![1 (2)](https://github.com/user-attachments/assets/8e7198d3-2b36-4bfe-8375-d0b5af39f132)
 ![4 (2)](https://github.com/user-attachments/assets/719cae52-266c-4a02-8a76-3b161f34bc77)
-![3 (2)](https://github.com/user-attachments/assets/f2d5d329-7b8f-4b3e-99b0-a9102cce89d8)
+
 ![2 (2)](https://github.com/user-attachments/assets/7494bb49-b5a0-4ec5-af72-bef4d3319b2e)
+![3 (2)](https://github.com/user-attachments/assets/f2d5d329-7b8f-4b3e-99b0-a9102cce89d8)
